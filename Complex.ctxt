@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Complex
+comment0.text=\n\ Suma\ a\ doua\ numere\ complexe\n\ 3+5i\n\ 4+3i\n\ \n\ 7+8i\n
+comment1.params=a\ b
+comment1.target=Complex(double,\ double)
+comment2.params=c
+comment2.target=Complex\ getSum(Complex)
+numComments=3

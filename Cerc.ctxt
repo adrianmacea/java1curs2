@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cerc
+comment0.text=\n\ getArie()\n\ getLungime()\n\ isTangent()\ true,\ false\n
+comment1.params=raza\ centru
+comment1.target=Cerc(double,\ Punct)
+comment2.params=
+comment2.target=double\ getArie()
+comment3.params=
+comment3.target=double\ getLungime()
+comment4.params=c
+comment4.target=boolean\ isTangent(Cerc)
+numComments=5

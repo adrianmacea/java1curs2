@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cilindru
+comment0.text=\n\ getArieCilindru()\ 2*A.bazei+L.bazei*h\n\ getVolum()\ A*h\n
+comment1.params=inaltime\ baza
+comment1.target=Cilindru(double,\ Cerc)
+comment2.params=
+comment2.target=double\ getArieCilindru()
+comment3.params=
+comment3.target=double\ getVolum()
+numComments=4

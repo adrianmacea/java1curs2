@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pisica
+comment0.text=\n\ Construim\ obiectul\ Pisica\n\ \n\ (atribute\:)\n\ greutate\n\ rasa\n\ nume\n\ \n\ (comportamente\ \=\ verbe\:)\n\ doarme\n\ merge\n\ spuneMiau\n\ mananca\n\ \n\ Instanta\ unei\ pisici\ ar\ arata\ asa\:\n\ \ 2\n\ \ birmanez\n\ \ Tom\n\ \ \n\ \n\ \n
+comment1.params=
+comment1.target=Pisica()
+comment2.params=nume\ rasa
+comment2.target=Pisica(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ spuneMiau()
+numComments=4

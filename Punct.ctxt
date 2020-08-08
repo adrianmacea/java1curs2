@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Punct
+comment0.text=\n\ Punct\ in\ plan\n\ distanta\n\ \n
+comment1.params=x\ y
+comment1.target=Punct(double,\ double)
+comment2.params=p
+comment2.target=double\ getDistance(Punct)
+comment3.params=p1\ p2
+comment3.target=double\ getDistance(Punct,\ Punct)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=E14CartiLaBiblioteca
+comment0.text=\n\ O\ biblioteca\ are\ mai\ multe\ carti.\n\ O\ carte\ are\ titlu\ si\ autor.\n\ \n\ Functionalitatile\ bibliotecii\:\n\ -\ ii\ putem\ adauga\ carti\n\ -\ ii\ putem\ afisa\ cartile\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

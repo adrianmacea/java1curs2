@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Carte
+comment1.params=titlu\ autor
+comment1.target=Carte(java.lang.String,\ java.lang.String)
+numComments=2

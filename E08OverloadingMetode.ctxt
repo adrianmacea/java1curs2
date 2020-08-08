@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=E08OverloadingMetode
+comment1.params=
+comment1.target=void\ acelasiNume()
+comment2.params=x
+comment2.target=void\ acelasiNume(int)
+comment3.params=x\ y
+comment3.target=void\ acelasiNume(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ acelasiNume(double,\ int)
+comment5.params=x\ y
+comment5.target=void\ acelasiNume(int,\ double)
+comment6.params=p1\ p2
+comment6.target=void\ acelasiNume(Punct,\ Pisica)
+comment7.params=p1\ p2
+comment7.target=void\ acelasiNume(Punct,\ Punct)
+numComments=8
